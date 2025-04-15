@@ -1,2 +1,2 @@
 # C-6.Proje
-Operatörler2
+6.Proje Eklenmiştir..
